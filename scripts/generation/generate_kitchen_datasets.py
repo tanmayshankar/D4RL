@@ -6,6 +6,7 @@ import h5py
 import numpy as np
 import os
 import pickle
+from IPython import embed
 
 np.set_printoptions(precision=2, suppress=True)
 
@@ -54,6 +55,8 @@ def main():
     all_demos = {}
     for demo_subdir in demo_subdirs:
         demo_files = glob.glob(os.path.join(demo_subdir, '*.pkl'))
+        print("Embedding after demo finding.")
+        embed()
         print('Found %d demos in %s.' % (len(demo_files), demo_subdir))
         demos = []
         for demo_file in demo_files:
