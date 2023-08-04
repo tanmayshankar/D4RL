@@ -53,7 +53,9 @@
         <camera name='right_cap' pos='1.2 -0.5 1.8' quat='0.76 0.5 0.21 0.35'/>
         <camera name='behind_robot' pos='0. -0.75 2.5' quat='-0.17 0. 0. 0.98'/>
         <camera name='behind_robot2' pos='0. -0.75 2.5' quat='0.98 -0.17 0. 0.'/>
-        <camera name='overshoulder_robot' pos='-1. -0.75 2.5' quat='0.97 -0.17 -0.02 -0.12'/>
+        <camera name='overshoulder_robot' pos='-0.2 -0.75 2.5' quat='0.97 -0.17 -0.02 -0.12'/>
+        <camera name='overshoulder_robot2' pos='-0.5 -0.75 2.5' quat='0.97 -0.17 -0.02 -0.12'/>
+        <camera name='overshoulder_robot3' pos='-0.5 -0.75 2.5' quat='0.97 -0.17 -0.02 -0.12'/>
 
         <!-- Robot -->
         <body pos='0. 0 1.8' euler='0 0 1.57'>
