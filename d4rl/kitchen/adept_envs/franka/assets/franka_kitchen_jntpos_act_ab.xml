@@ -51,13 +51,13 @@
         <site name='target' pos='0 0 0' size='0.1' rgba='0 2 0 .2'/>
         <camera name='left_cap' pos='-1.2 -0.5 1.8' quat='0.78 0.49 -0.22 -0.32' />
         <camera name='right_cap' pos='1.2 -0.5 1.8' quat='0.76 0.5 0.21 0.35'/>
-        <camera name='behind_robot' pos='0. -0.75 2.5' quat='0.98 -0.17 0. 0.'/>
-        <camera name='behind_robot2' pos='0. -0.75 2.5' quat='1. 1. 0. 0.'/>
-        <camera name='overshoulder_robot1' pos='-0.2 -0.75 2.5' quat='1. 1. 0. 0.'/>
-        <camera name='overshoulder_robot2' pos='-0.2 -0.75 2.5' quat='1. 0. 1. 0.'/>
-        <camera name='overshoulder_robot3' pos='-0.2 -0.75 2.5' quat='1. 0. 0. 1.'/>
-        <camera name='overshoulder_robot4' pos='-0.2 -0.75 2.5' quat='0. 1. 0. 1.'/>
-        <camera name='overshoulder_robot5' pos='-0.2 -0.75 2.5' quat='0. 0. 1. 1.'/>        
+        <camera name='behind_robot_c2' pos='0. -0.75 2.5' quat='0.98 -0.17 0. 0.'/>
+        <camera name='behind_robot2_c3' pos='0. -0.75 2.5' quat='1. 1. 0. 0.'/>
+        <camera name='overshoulder_robot1_c4' pos='-0.2 -0.75 2.5' quat='1. 1. 0. 0.'/>
+        <camera name='overshoulder_robot2_c5' pos='-0.2 -0.75 2.5' quat='1. 0. 1. 0.'/>
+        <camera name='overshoulder_robot3_c6' pos='-0.2 -0.75 2.5' quat='1. 0. 0. 1.'/>
+        <camera name='overshoulder_robot4_c7' pos='-0.2 -0.75 2.5' quat='0.92 0.38 0. 0.'/>
+        <camera name='overshoulder_robot5_c8' pos='-0.2 -0.75 2.5' quat='0.92 -0.38 0. 0.'/>        
 
         <!-- Robot -->
         <body pos='0. 0 1.8' euler='0 0 1.57'>
