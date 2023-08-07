@@ -60,8 +60,8 @@
 
         <!-- Best camera angle so far-->     
         <camera name='overshoulder_robot5_c7' pos='-1. -1.25 2.5' quat='0.86 0.5 0. 0.'/>            
-        <camera name='overshoulder_robot6_c8' pos='-1. -1.25 2.5' quat='0.25 0.94 -0.04 -0.16'/>
-        <camera name='overshoulder_robot7_c9' pos='-1. -1.25 2.5' quat='0.23 0.93 0.03 -0.18'/>
+        <camera name='overshoulder_robot6_c8' pos='-1. -1.25 2.5' quat='0.94 0.25 -0.16 -0.04'/>
+        <camera name='overshoulder_robot7_c9' pos='-1. -1.25 2.5' quat='0.93 0.26 -0.14 -0.11'/>
 
         <!-- Robot -->
         <body pos='0. 0 1.8' euler='0 0 1.57'>
